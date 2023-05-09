@@ -45,3 +45,5 @@ We tried to use Neural Networks as well as Ensemble Tree-based Regressors at man
 After creating these models and tuning the best hyperparameters for them, we made the forecast prediction of future sales of 28 days with an WRMSSE of __0.52978__.
 
 ![image](./final_result.jpeg "Best Kaggle Private Score")
+#### Code: https://github.com/additanwar/walmart-m5-challenge/blob/main/step4_stack.ipynb
+#### Repository: https://github.com/additanwar/walmart-m5-challenge/tree/main
